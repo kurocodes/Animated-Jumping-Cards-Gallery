@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/4b60960c-764e-4b35-a712-d42e96c17c33
 
 ### 🎨 Design Features
 
-- 🎢 Elastic card entry animation – cards pop into view with bounce
+- 🎢 Elastic card entry animation – cards pop into view with a bounce
 - ⏳ Staggered timing – one after the other, like a little dance 💃
 - 🃏 Stacked half-over layout – layered like a stylish card deck
 - 🖱️ Hover interaction – rotate + slide for a playful touch
@@ -33,4 +33,4 @@ Perfect for:
 - 🎴 Showcasing image sets or character art
 - 🛍️ Product galleries with flair
 - 🎨 Portfolios that want a fun entry animation
-- Or anywhere you want to turn “just images” → woah, that’s smooth!” ✨
+- Or anywhere you want to turn “just images” → Whoa, that’s smooth!” ✨
